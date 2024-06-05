@@ -12,5 +12,7 @@ Folder: ohm_baseline, Contents: gemma_answers_baseline.ipynb, llama_answers_base
 
 Folder: final_code, Contents: Biencoder.py, CrosswordStruct.py, Loopy_BP.py, Model.py, Solver.py, Testing.py, bigram_dict.py, main.py, Summary: End-to-end process for taking in a json filepath and outputting accuracy for grid solving (both word and letter). It takes in the fine-tuned model
 
+Folder: analysis, Contents: accuracies.csv, creating_testing_data.ipynb, letter_accuracy_by_day.png, letter_accuracy_by_day_of_week.png, letter_accuracy_by_year.png, solutions_dataset.csv, Summary: The outputted files from the testing run and accompanying graphs used in the report
+
 
 
