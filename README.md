@@ -14,5 +14,6 @@ Folder: final_code, Contents: Biencoder.py, CrosswordStruct.py, Loopy_BP.py, Mod
 
 Folder: analysis, Contents: accuracies.csv, creating_testing_data.ipynb, letter_accuracy_by_day.png, letter_accuracy_by_day_of_week.png, letter_accuracy_by_year.png, solutions_dataset.csv, Summary: The outputted files from the testing run and accompanying graphs used in the report
 
+<img width="1440" alt="Screenshot 2024-06-06 at 2 31 32 PM" src="https://github.com/ishanmehta2/cs224N_final_project/assets/157362241/127027b2-8596-445d-a2a8-9d2691f5a7b5">
 
 
