@@ -1,4 +1,4 @@
-# Install that bitch if needed
+# Install if needed
 import openai
 
 openai.api_key = 'sk-proj-8oLvnNGJLnlgW4SQOoHwT3BlbkFJ8c24SWE59CoO4sTxlDC7'
