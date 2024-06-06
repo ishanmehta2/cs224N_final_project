@@ -1,7 +1,8 @@
 # Install if needed
 import openai
 
-openai.api_key = 'sk-proj-8oLvnNGJLnlgW4SQOoHwT3BlbkFJ8c24SWE59CoO4sTxlDC7'
+# hiding because I don't want our key stolen LOL
+openai.api_key = ""
 
 # this is what I called the file in the github. If you run this on colab, this is fine. If on VSCode, change the filepath
 with open('fine_tuned_model_name.txt', 'r') as f:
