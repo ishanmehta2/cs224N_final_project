@@ -2,6 +2,7 @@
 final project for cs224N
 
 Breakdown of files:
+
 Folder: gpt2_baseline, Contents: GPT2_baseline.py, GPT_baseline.ipynb, Summary: Calling GPT2 on Crossword Clues without alteration
 
 Folder: fine_tuning, Contents: fine_tuning.py, gpt2_finetuning.ipynb, Summary: Fine-tuned GPT2 on Crossword Clues
