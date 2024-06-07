@@ -4,7 +4,7 @@ final project for cs224N
 Breakdown of files:
 Folder: gpt2_baseline, Contents: GPT2_baseline.py, GPT_baseline.ipynb, Summary: Calling GPT2 on Crossword Clues without alteration
 
-Folder: fine_tuning, Contents: fine_tuning.py, ishan_finetuning.ipynb, Summary: Fine-tuned GPT2 on Crossword Clues
+Folder: fine_tuning, Contents: fine_tuning.py, gpt2_finetuning.ipynb, Summary: Fine-tuned GPT2 on Crossword Clues
 
 Folder: data, Contents: data_processing.ipynb, nytcrosswords.csv, output.txt, reformatted.txt, training_data.txt, testing.csv, Summary: All training, testing, and fine-tuning data across all models
 
